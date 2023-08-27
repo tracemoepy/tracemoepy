@@ -12,3 +12,10 @@
 </p>
 
 <h3>
+
+## 📊 &nbsp;My Bots
+  
+Here is list of my all bots
+  <!-- Talking about disclaimer -->
+  
+<a href="https://t.me/darkpyrorv"><img src="https://img.shields.io/badge/darkpyro%20Management-blue.svg?style=for-the-badge&logo=Telegram"></a>
