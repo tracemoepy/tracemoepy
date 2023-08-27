@@ -13,9 +13,16 @@
 
 <h3>
 
-## 📊 &nbsp;My Bots
+## 📊 &nbsp;My Group
   
 Here is list of my all bots
   <!-- Talking about disclaimer -->
   
-<a href="https://github.com/tracemoepy/DarkPyro-REV"><img src="https://img.shields.io/badge/DarkPyro%20Userbot-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/DarkPyroRV"><img src="https://img.shields.io/badge/DarkPyro%20Feedback-blue.svg?style=for-the-badge&logo=Telegram"></a>
+
+### About me
+- **Name**  : `Jodi Lintang Aji`
+- **Status**: `unemployment`
+- **Age**  : `18`
+- **Favorite**   : `Game and Music`
+- **Residence**  : `Kotawaringin Barat,Kalimantan Tengah`
