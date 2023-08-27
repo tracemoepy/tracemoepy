@@ -15,7 +15,7 @@
 
 ## 📊 &nbsp;My Group
   
-Here is list of my all bots
+Here is my group
   <!-- Talking about disclaimer -->
   
 <a href="https://t.me/DarkPyroRV"><img src="https://img.shields.io/badge/DarkPyro%20Feedback-blue.svg?style=for-the-badge&logo=Telegram"></a>
