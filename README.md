@@ -23,6 +23,6 @@ Here is my group
 ### About me
 - **Name**  : `Jodi Lintang Aji`
 - **Status**: `unemployment`
-- **Age**  : `18`
+- **Age**   : `18`
 - **Favorite**   : `Game and Music`
 - **Residence**  : `Central Kalimantan`
