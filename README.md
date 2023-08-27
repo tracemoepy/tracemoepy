@@ -27,4 +27,4 @@ Here is my group
 - **Favorite**   : `Game and Music`
 - **Residence**  : `Central Kalimantan`
 
-<img src="https://telegra.ph//file/4557f95ca020f8a6824c6.mp4">
+<img src="https://telegra.ph//file/1c6f6cd1c792d8844f41d.jpg">
