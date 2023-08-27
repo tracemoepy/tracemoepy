@@ -25,4 +25,4 @@ Here is list of my all bots
 - **Status**: `unemployment`
 - **Age**  : `18`
 - **Favorite**   : `Game and Music`
-- **Residence**  : `Kotawaringin Barat,Kalimantan Tengah`
+- **Residence**  : `Central Kalimantan`
